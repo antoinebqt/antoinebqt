@@ -1,1 +1,1 @@
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antoinebqt&theme=react) ![Github Stats](https://github-readme-stats.vercel.app/api?username=antoinebqt&theme=react&show_icons=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antoinebqt&theme=react) ![Github Stats](https://github-readme-stats.vercel.app/api?username=antoinebqt&theme=react&show_icons=true&count_private=true)
